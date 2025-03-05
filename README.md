@@ -6,13 +6,18 @@
 
 ## 🔥 学習内容
 - **線形代数（Linear Algebra）**
-- **アルゴリズム（Algorithms）**
+- **解析学(Analysis)**
 - **計算数学（Computational Mathematics）**
+- **集合論(Set Theory)**
+
+計算機科学
+- **アルゴリズム（Algorithms）**
+- **暗号理論**
+
 - **プログラミング（Python, C++ など）**
 
 ## 📂 ディレクトリ構成
-更新中
-
+以下編集中
 
 
 
@@ -27,4 +32,7 @@ git pull origin main → GitHubの最新状態を取得（同期）
 git reset --soft HEAD~1 → 直前のコミットを取り消す（やり直し）
 
 
-$$E = mc^2$$
+### LaTex Test
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
